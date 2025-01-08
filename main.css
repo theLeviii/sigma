@@ -1,0 +1,46 @@
+.container {
+    max-width: 100%;
+    width: 70%;
+    margin: 0 auto;
+    border: 2px solid white;
+}
+
+body{
+background: #CD5D5D;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    
+}
+.link{
+    color: black;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+.parend-card{
+    display: flex;
+    justify-content: center;
+    gap: 95px;
+    flex-wrap: wrap;
+}
+.card{
+width: 300px;
+height: 300px;
+top: 173px;
+left: 166px;
+gap: 0px;
+opacity: 0px;
+background-color: black;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+p{
+    padding: 2px;
+    color: aliceblue;
+}
